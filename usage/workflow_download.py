@@ -6,7 +6,7 @@ jm_albums = str_to_list('''
 136494
 
 
-'''
+''')
 
 # 单独下载章节
 jm_photos = '''
